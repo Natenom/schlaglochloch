@@ -4,9 +4,9 @@ A template/design/whateveritiscalled thing to self host a list of "Schlaglöcher
 You can send a link to your page to your regional "Straßenmeisterei"/"road maintenance depot".
 
 ## Idee
-Schlaglöcher gibt es viele, aber einige davon können für Fahrradfahrer sehr gefährlich werden, weil sie z. B. sehr tief sind. Fährt man durch solche schnell durch, kann man sich einen Schaden am Fahrrad einholen. Genau um diese Schlaglöcher geht es hier.
+Schlaglöcher gibt es viele, aber einige davon können für Fahrradfahrer sehr gefährlich werden, weil sie z. B. sehr tief sind. Fährt man durch solche schnell durch, kann man sich einen Schaden am Fahrrad einholen oder sogar stürzen. Auch wenn man im Dunkeln unterwegs ist, kann man diese oft erst zu spät erkennen. Genau um diese Schlaglöcher geht es hier.
 
-Es soll eine Liste mit ein paar Zusatzinformationen je Schlagloch erstellt werden, um diese an zuständigen Straßenmeistereien/Städte/Gemeinden zu schicken.
+Es soll eine Liste mit ein paar Zusatzinformationen je Schlagloch erstellt werden. Diese Liste wird dann zuständige Straßenmeistereien/Städte/Gemeinden geschickt.
 
 Auch soll festgehalten werden, wie lange es gedauert hat, bis ein Schlagloch gefixt wurde.
 
